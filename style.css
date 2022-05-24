@@ -50,3 +50,9 @@ body {
     background-color: green;
     border-top-left-radius: 100%;
 }
+
+.selected {
+    box-shadow: inset 15px 0 4em #fff;
+    opacity: 0.4;
+
+}
